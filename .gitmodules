@@ -1,0 +1,3 @@
+[submodule "DSW-API"]
+	path = DSW-API
+	url = https://github.com/mapf98/DSW-API
